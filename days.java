@@ -14,7 +14,7 @@ public class days {
                 break;
             case 5:
             case 6:
-                System.out.println("weekend");
+                System.out.println("weekend days");
                 break;
             default:
                 System.out.println("invalid");
