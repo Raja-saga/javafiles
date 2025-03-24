@@ -24,7 +24,7 @@ public class days {
         switch (day){
             case 1,2,3,4-> System.out.println("weekday");
             case 5,6-> System.out.println("weekend");
-            default -> System.out.println("Ivalid");
+            default -> System.out.println("Ivalid code values ");
         }
 
     }
